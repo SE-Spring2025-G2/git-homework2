@@ -5,3 +5,8 @@
 ## Introduction
 
 This repo is for the Software Engineering Spring 2025 class' homework 2.
+
+### Keyur Gondhalekar's Git Tutorial progress screenshots
+
+![Screenshot 1](/tutorial_progress_screenshots/kbgondha_img1.png)
+![Screenshot 2](/tutorial_progress_screenshots/kbgondha_img2.png)
