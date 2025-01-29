@@ -5,3 +5,7 @@
 ## Introduction
 
 This repo is for the Software Engineering Spring 2025 class' homework 2.
+
+### Ayush Pathak's Git Tutorial progress screenshots
+![Screenshot 1](/tutorial_progress_screenshots/AyushScreenShot1.png)
+![Screenshot 2](/tutorial_progress_screenshots/AyushScreenShot2.png)
