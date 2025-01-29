@@ -1,6 +1,7 @@
-![Python](https://img.shields.io/badge/Made%20With-Python-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![HTML](https://img.shields.io/badge/Made%20With-HTML-orange) 
+![Github](https://img.shields.io/badge/Made%20With-Github-purple)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
-![Checked with mypy](https://img.shields.io/badge/mypy-checked-blue)
 
 ## Introduction
 
