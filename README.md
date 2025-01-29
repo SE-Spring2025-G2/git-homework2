@@ -5,3 +5,8 @@
 ## Introduction
 
 This repo is for the Software Engineering Spring 2025 class' homework 2.
+
+
+## Ayush Gala's Git Tutorial Screenshots
+![Screenshot 1](/tutorial_progress_screenshots/agala2_shot1.jpg)
+![Screenshot 2](/tutorial_progress_screenshots/agala2_shot2.jpg)

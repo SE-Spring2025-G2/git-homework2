@@ -20,7 +20,3 @@ First, clone the repository to your local machine using Git:
 git clone https://github.com/your-username/your-repo-name.git
 cd git-homework2
 ```
-
-## Ayush Gala's Git Tutorial Screenshots
-![Screenshot 1](/tutorial_progress_screenshots/agala2_shot1.jpg)
-![Screenshot 2](/tutorial_progress_screenshots/agala2_shot2.jpg)
