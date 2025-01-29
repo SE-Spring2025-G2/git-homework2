@@ -6,6 +6,10 @@
 
 This repo is for the Software Engineering Spring 2025 class' homework 2.
 
+
+### Project Screenshot
+![Project Screenshot](screenshot.png)
+
 ### Keyur Gondhalekar's Git Tutorial progress screenshots
 
 ![Screenshot 1](/tutorial_progress_screenshots/kbgondha_img1.png)
