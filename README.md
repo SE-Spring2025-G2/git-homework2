@@ -23,6 +23,22 @@ This repo is for the Software Engineering Spring 2025 class' homework 2.
 ![Screenshot 1](/tutorial_progress_screenshots/agala2_shot1.jpg)
 ![Screenshot 2](/tutorial_progress_screenshots/agala2_shot2.jpg)
 
+## Code Example
+
+```
+# Stage all changes for commit
+git add .
+
+
+# Commit the staged changes with a message
+git commit -m "Add changes"
+
+
+# Push to the remote repository
+git push origin YOUR_BRANCH
+```
+
+## Task List:
 - [x] Task 1: Complete Git Tutorial
 - [x] Task 2: Add Screenshots to README.md
 - [x] Task 3: Modify .html File
